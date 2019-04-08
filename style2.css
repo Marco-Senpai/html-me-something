@@ -32,6 +32,14 @@ body {
 }
 title {
     color: crimson;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 
+.fun {
+    background-color: gold
+}
+
+#game {
+    background-color: dimgray
+}
